@@ -1,0 +1,25 @@
+/* Styles for screens with a minimum width of 650px */
+@media(max-width:768px){
+    body{
+        color: #000;
+        background-color: #a6fbf1;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+.headingPrimary {
+    color: #ff1c42;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+headingSecondary{
+    color: #1cb4ff;
+ }
+ img{
+    border-radius: 30px;
+ }
+ footer{
+    background-color: #1c43ff;
+    color: #fff;
+    padding: 40px;
+    margin-top: 40px;
+ }
